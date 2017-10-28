@@ -7,5 +7,5 @@ def fizzbuzz(int)
   end
 end
 
-num = fizzbuzz(3);
-input fizzbuzz(3)
+num = fizzbuzz(3)
+inputs num 
