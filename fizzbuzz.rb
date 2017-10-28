@@ -1,2 +1,2 @@
-def fizzbuzz(number)
+def fizzbuzz(int)
 end
