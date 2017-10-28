@@ -8,4 +8,4 @@ def fizzbuzz(int)
 end
 
 num = fizzbuzz(3)
-inputs num 
+puts num 
